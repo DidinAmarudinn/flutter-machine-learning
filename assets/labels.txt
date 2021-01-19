@@ -1,0 +1,8 @@
+0 dadar_gulung
+1 kastangel
+2 kelepon
+3 lapis
+4 lumpur
+5 putri_salju
+6 risoles
+7 serabi
